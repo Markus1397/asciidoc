@@ -1,0 +1,19 @@
+﻿= Titel
+:author: Fabian Haas
+:listing-caption: Listing
+:source-highlighter: rouge
+:src: ..
+:img: ./img
+:toc:
+:numbered:
+:toclevels: 3
+:rouge-style: github
+:pdf-themesdir: ../theme
+:pdf-theme: basic
+:pdf-fontsdir: ../fonts
+
+== Lösungsidee
+
+== Code
+
+== Tests
